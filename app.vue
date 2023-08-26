@@ -1,3 +1,6 @@
+<script setup lang="ts">
+import TopBar from "~/components/index/TopBar.vue";
+</script>
 <template>
   <div class="common-layout">
     <el-container>
@@ -18,6 +21,6 @@
     </el-container>
   </div>
 </template>
-<script setup lang="ts">
-import TopBar from "~/components/index/TopBar.vue";
-</script>
+<style scoped>
+
+</style>
